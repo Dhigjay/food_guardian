@@ -309,4 +309,4 @@ Hanya data pengukuran aktual yang boleh masuk ke `data/`. Data ilustrasi tidak d
 
 ## Lisensi
 
-Tentukan lisensi (misalnya MIT) di berkas `LICENSE` bila kode ingin dipakai orang lain.
+Kode dirilis di bawah [lisensi MIT](LICENSE). Lisensi ini hanya mencakup kode. Peringatan di bagian atas README tetap berlaku: alat ini tidak untuk menentukan keamanan konsumsi.
