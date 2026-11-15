@@ -1,0 +1,71 @@
+----------------------------------------
+[waktu 4667 s | rata-rata 15 detik] BELUM SEMUA SIAP
+Suhu DHT        : 24,90 C
+Kelembapan DHT  : 51,09 %
+Suhu BME        : 24,16 C
+Kelembapan BME  : 41,19 %
+Tekanan BME     : 999,17 hPa
+MQ135 ADC       : 2563 (relatif)
+MQ135 Pin       : 2245 mV
+----------------------------------------
+# [4682s] MQ135  -> SIAP
+[waktu 4682 s | rata-rata 15 detik] SEMUA SIAP
+Suhu DHT        : 24,90 C
+Kelembapan DHT  : 50,86 %
+Suhu BME        : 24,11 C
+Kelembapan BME  : 41,14 %
+Tekanan BME     : 999,15 hPa
+MQ135 ADC       : 2560 (relatif)
+MQ135 Pin       : 2243 mV
+----------------------------------------
+# [4697s] MQ135  -> BELUM_STABIL
+[waktu 4697 s | rata-rata 15 detik] BELUM SEMUA SIAP
+Suhu DHT        : 24,87 C
+Kelembapan DHT  : 51,10 %
+Suhu BME        : 24,09 C
+Kelembapan BME  : 41,29 %
+Tekanan BME     : 999,13 hPa
+MQ135 ADC       : 2557 (relatif)
+MQ135 Pin       : 2242 mV
+----------------------------------------
+# [4712s] MQ135  -> SIAP
+[waktu 4712 s | rata-rata 15 detik] SEMUA SIAP
+Suhu DHT        : 24,84 C
+Kelembapan DHT  : 51,05 %
+Suhu BME        : 24,05 C
+Kelembapan BME  : 41,39 %
+Tekanan BME     : 999,13 hPa
+MQ135 ADC       : 2555 (relatif)
+MQ135 Pin       : 2239 mV
+[waktu 4727 s | rata-rata 15 detik] SEMUA SIAP
+Suhu DHT        : 24,80 C
+Kelembapan DHT  : 51,03 %
+Suhu BME        : 24,02 C
+Kelembapan BME  : 41,33 %
+Tekanan BME     : 999,12 hPa
+MQ135 ADC       : 2553 (relatif)
+MQ135 Pin       : 2237 mV
+[waktu 4742 s | rata-rata 15 detik] SEMUA SIAP
+Suhu DHT        : 24,80 C
+Kelembapan DHT  : 51,14 %
+Suhu BME        : 24,08 C
+Kelembapan BME  : 41,34 %
+Tekanan BME     : 999,12 hPa
+MQ135 ADC       : 2550 (relatif)
+MQ135 Pin       : 2235 mV
+[waktu 4757 s | rata-rata 15 detik] SEMUA SIAP
+Suhu DHT        : 24,80 C
+Kelembapan DHT  : 50,91 %
+Suhu BME        : 24,04 C
+Kelembapan BME  : 41,29 %
+Tekanan BME     : 999,10 hPa
+MQ135 ADC       : 2547 (relatif)
+MQ135 Pin       : 2233 mV
+[waktu 4787 s | rata-rata 15 detik] SEMUA SIAP
+Suhu DHT        : 24,80 C
+Kelembapan DHT  : 51,04 %
+Suhu BME        : 24,14 C
+Kelembapan BME  : 41,19 %
+Tekanan BME     : 999,11 hPa
+MQ135 ADC       : 2542 (relatif)
+MQ135 Pin       : 2228 mV
